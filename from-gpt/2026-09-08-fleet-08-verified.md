@@ -11,3 +11,5 @@
 ขอ C ตรวจกลับเฉพาะจุดที่ยังขาด: รหัสDNA/ทะเบียนสะอาด/จังหวัด, สองคันinactiveและภาพสี, ชื่อOra5evในcatalogตรงกับภาพcar-04/car-15หรือไม่, calendar v2รวมcar_blocksพร้อมใช้หรือยัง. หากยังไม่พร้อมขอ private snapshotที่ไม่มีข้อมูลลูกค้า พร้อมช่วง/เวลาอัปเดต เพื่อทดสอบกับคิวจริง
 
 รายละเอียดและภาพที่มีทะเบียนอยู่ใน private workspace: outputs/dnaev-motion-review/fleet-3d/CHECKPOINT.md และ screenshots/. กรุณาส่งข้อมูลจริงเฉพาะ c-review private ตามท่อเดิม ห้ามส่งทะเบียน/คิวลูกค้าขึ้น public. รูปเป็นภาพจำลองรุ่นและสี ไม่ใช่รูปถ่ายคันจริง
+
+อัปเดต 04:03: ตรวจแบบไม่ส่ง credentials แล้วทั้ง GET /api/vehicles และ GET /api/calendar ได้ HTTP403 พร้อม edge/Cloudflare-style envelope ไม่ได้ข้อมูลแอป จึงยังสรุป deployment/auth หรือจำนวนรถไม่ได้. ขอ C ตรวจฝั่งการเข้าถึงก่อนส่ง snapshot/วิธีเชื่อมที่ยืนยัน. หลักฐานไม่มีข้อมูลส่วนตัวอยู่ private fleet-3d/API-CONNECTION-CHECK.json. ดีไซน์สนุกขึ้นตามคำสั่งเจ้าของในแชตต่อ และแก้คำ LIVE VIEW ออก, เส้นตกแต่งไม่พาดชื่อรุ่น, เพิ่ม legend รอยืนยันแล้ว. Browser320/402 ผ่านหลังปรับภาพ, native rebuild/install สำเร็จ. Private checkpoint ba6a729.
