@@ -1,0 +1,74 @@
+[
+  {
+    "file": "nene-hello.png",
+    "source": "outputs/dnaev-payment-history-integration/repo/public/home/assistant.png",
+    "width": 640,
+    "height": 640,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 177235,
+    "sha256": "13cf18e835121264a6e411ace475bad7c25e6a42e90cb887631523d458d72664"
+  },
+  {
+    "file": "nene-car-key.png",
+    "source": "outputs/dnaev-payment-history-integration/repo/public/home/assistant-key.png",
+    "width": 468,
+    "height": 527,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 209474,
+    "sha256": "d9b9759f55df962811d42f5fec3f61736ffba41e1b2f603bd5a6dafa0edd6011"
+  },
+  {
+    "file": "nene-login-faceid.png",
+    "source": "outputs/dnaev-creative-direction/login-otp-design-v1/assistant-login-faceid-v2-transparent.png",
+    "width": 1223,
+    "height": 1286,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 1462163,
+    "sha256": "def9f46957eb6581cbe9aab2e9a28a0a176b40899ca9ece20c5765912d5d7432"
+  },
+  {
+    "file": "nene-otp-guide.png",
+    "source": "outputs/dnaev-creative-direction/login-otp-design-v1/assistant-otp-check-v2-transparent.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 1230131,
+    "sha256": "b59ea9905a984eedd41e24dd4362292f8ecd2e24e65bbf08c79cc44f31dc30c6"
+  },
+  {
+    "file": "references/nene-hello-original.png",
+    "source": "outputs/dnaev-motion-review/assets/dna-assistant-motion-reference.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB",
+    "alpha_range": null,
+    "bytes": 1371432,
+    "sha256": "95406e4fcff135682dbd310e9292bcf3fa37dbcb1367b167003436a801b77f26"
+  },
+  {
+    "file": "references/nene-approved-expressions.png",
+    "source": "outputs/dna-day-handoff-v1/REFERENCE-MASTER/22-APPROVED-CHARACTER-EXPRESSION.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "bytes": 1708271,
+    "sha256": "3df7c6256f59a382e95af35c68b67566421d150c918c3358be6fdd12ea855295"
+  }
+]
