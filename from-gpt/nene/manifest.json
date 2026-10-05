@@ -70,5 +70,120 @@
     "alpha_range": null,
     "bytes": 1708271,
     "sha256": "3df7c6256f59a382e95af35c68b67566421d150c918c3358be6fdd12ea855295"
+  },
+  {
+    "file": "nene-welcome.png",
+    "source": "outputs/dnaev-secretary-feature-poses/transparent/SecretaryWelcome.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 842370,
+    "sha256": "f4ace4df32ef2c18e820b93f4b47714a91acb8656eac63374b0bdbd023ffe97c"
+  },
+  {
+    "file": "originals/nene-welcome.png",
+    "source": "outputs/dnaev-secretary-feature-poses/originals/SecretaryWelcome.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "bytes": 1108701,
+    "sha256": "35ae89d2aff76e09c84acc03d630ddfd1b99617a941533cf8e3b8dfbcdf7cd49"
+  },
+  {
+    "file": "nene-reading.png",
+    "source": "outputs/dnaev-secretary-feature-poses/transparent/SecretaryReview.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 679928,
+    "sha256": "e7f667e94f277a58a7e8a2f0f3dc308127cfbba31299b9b105c0ffb5ea9f50d7"
+  },
+  {
+    "file": "originals/nene-reading.png",
+    "source": "outputs/dnaev-secretary-feature-poses/originals/SecretaryReview.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "bytes": 1324634,
+    "sha256": "7b1029a2de7235a504c6212c772e9af7e142648a8af4eec3ba3a83608ca533a8"
+  },
+  {
+    "file": "nene-search.png",
+    "source": "outputs/dnaev-secretary-feature-poses/transparent/SecretarySearch.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 713479,
+    "sha256": "e479bca7b4fff27f3f2f44113775dd0aa150a307189f3ac349b8e2bea3d85fc6"
+  },
+  {
+    "file": "originals/nene-search.png",
+    "source": "outputs/dnaev-secretary-feature-poses/originals/SecretarySearch.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "bytes": 1357162,
+    "sha256": "79d7220ab79b85fbbdcfe4f81dadf35b7a84439185c37ee9cda03410277fbaf8"
+  },
+  {
+    "file": "nene-calendar.png",
+    "source": "outputs/dnaev-secretary-feature-poses/transparent/SecretaryCalendar.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 762682,
+    "sha256": "1e5a6222d8857dab04f86dca30afa22eea22ad49cf7fe35fd6df28f53d78c43d"
+  },
+  {
+    "file": "originals/nene-calendar.png",
+    "source": "outputs/dnaev-secretary-feature-poses/originals/SecretaryCalendar.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "bytes": 1450404,
+    "sha256": "71f046b76882136e77d752e000233b0487b440ee758ac458302210c521688b45"
+  },
+  {
+    "file": "nene-done.png",
+    "source": "outputs/dnaev-secretary-feature-poses/transparent/SecretarySuccess.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 691819,
+    "sha256": "c31a9cb65a7528d835c008ee58d2e1aa328127a42143dbb43226e3d9d3fc9db5"
+  },
+  {
+    "file": "originals/nene-done.png",
+    "source": "outputs/dnaev-secretary-feature-poses/originals/SecretarySuccess.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "bytes": 1316996,
+    "sha256": "e22b70d8573fc63c74308fd43138b70a657dce3a29a98759d577ede686d367a7"
   }
 ]
